@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🏢 Cloud Platform Engineer at [REWE digital](https://github.com/rewe-digital)
+- 🏢 Cloud Platform Engineer
 - ⚙️ I use daily: `.go`, `.tf`, `.yaml`, :cloud:, 🧠
 - ☀️ Most liked tech: Kafka, Prometheus & Grafana, Kubernetes
 - 💩 Most dreaded tech: JVM
